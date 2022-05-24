@@ -4,7 +4,15 @@ Hi 👋 My name is Santiago Bojanich
 Full Stack Developer
 --------------------
 
-Con muchas ganas, motivacion y capacidad para expandir mi experiencia en el Desarrollo Back-End Y en el campo Profesional IT en general. 📌SOBRE MI: 💡Me considero una persona tranquila, que se lleva muy bien con la tecnologia y las personas. 💡Me encanta trabajar en conjunto, es algo que me motiva a dar lo mejor de mi. 💡Me encanta aprender, constamente y sobre muchos campos. 💡Me encanta enfrentarme a problemas, preguntas, desafios o enigmas y llegar a una solucion para los mismos. 💡Me encanta planear caminos nuevos. 💻Sigo en constante formacion y por como soy siempre voy a estarlo.
+Con muchas ganas, motivacion y capacidad para expandir mi experiencia en el Desarrollo Back-End Y en el campo Profesional IT en general. 
+📌SOBRE MI: 
+💡Me considero una persona tranquila, que se lleva muy bien con la tecnologia y las personas. 
+💡Me encanta trabajar en conjunto, es algo que me motiva a dar lo mejor de mi. 
+💡Me encanta aprender, constamente y sobre muchos campos. 
+💡Me encanta enfrentarme a problemas, preguntas, desafios o enigmas y llegar a una solucion para los mismos. 
+💡Me encanta planear caminos nuevos. 
+
+💻Sigo en constante formacion y por como soy siempre voy a estarlo.
 
 * 🌍  I'm based in La Plata, Buenos Aires, Argentina.
 * ✉️  You can contact me at [santidgz@hotmail.com](mailto:santidgz@hotmail.com)
