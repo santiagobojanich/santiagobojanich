@@ -13,7 +13,20 @@ Con muchas ganas, motivacion y capacidad para expandir mi experiencia en el Desa
 
 ### Skills
 <ul>
-<li> JavaScript </li>
+  <li> JavaScript </li>
+  <li> TypeScript </li>
+  <li> HTML5 </li>
+  <li> React </li>
+  <li> CSS3 </li>
+  <li> Redux </li>
+  <li> Babel </li>
+  <li> Webpack </li>
+  <li> NodeJS </li>
+  <li> Express </li>
+  <li> MongoDB </li>
+  <li> PostgreSQL </li>
+  <li> Heroku </li>
+  
 </ul>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
