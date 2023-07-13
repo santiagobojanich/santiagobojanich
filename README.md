@@ -4,7 +4,7 @@ Hi 👋 My name is Santiago Bojanich
 Full Stack Developer
 --------------------
 
-Con muchas ganas, motivacion y capacidad para expandir mi experiencia en el Desarrollo Back-End Y en el campo Profesional IT en general. 
+Full stack developer con +1 año de experiencia profesional. 
 📌SOBRE MI: 
 💡Me considero una persona tranquila, que se lleva muy bien con la tecnologia y las personas. 
 💡Me encanta trabajar en conjunto, es algo que me motiva a dar lo mejor de mi. 
