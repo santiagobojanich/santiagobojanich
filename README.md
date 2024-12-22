@@ -16,7 +16,6 @@ Full stack developer con +1 año de experiencia profesional.
 
 * 🌍  I'm based in La Plata, Buenos Aires, Argentina.
 * ✉️  You can contact me at [santidgz@hotmail.com](mailto:santidgz@hotmail.com)
-* 🚀  I'm currently working on [Attend](http://github.com/MartinezBruno/Proyecto-Final-Henry)
 * 🧠  I'm learning Typescript, MongoDB, microServices
 
 ### Skills
